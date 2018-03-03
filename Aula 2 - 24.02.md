@@ -13,6 +13,7 @@ Planejar é um processo mais detalhado do que se precisa entregar
 		Definição de limites do projeto
 		Escopo Positivo (O que deve ter de entrega)
 		Escopo Negativo (O que não deve ter de entrega)
+
 ### P3 - Desenvolver uma EAP
 	Subdivisão das ENTREGAS e do trabalho do projeto em componentes menores
 	Decompõe o esforço do projeto bem definidos (Baby Steps)
@@ -21,6 +22,7 @@ Planejar é um processo mais detalhado do que se precisa entregar
 		Entregas
 		Atividades
 	Obs:. No último nível da EAP tem que ter entregas (pacotes de trabalho)
+
 ### P4 - Desenvolvendo o Cronograma
 	Definindo Atividades
 		Decompor as Atividades
@@ -46,6 +48,7 @@ Planejar é um processo mais detalhado do que se precisa entregar
 		Gráfico de Gantt
 		Cronograma de Marcos (ex:. Entrega de Release, Assinature de Contrato)
 	Matriz RACI (Matriz de Responsabilidade)
+
 ### P5 - Estimar custos das atividades e determinar o orçamento
 	Tipos de Custos
 		Custos Variáveis (Ligados a produção)
@@ -56,6 +59,7 @@ Planejar é um processo mais detalhado do que se precisa entregar
 		Custos Não Recorrentes (Custos que não se repete)
 	Reserva de Contigência (para lidar com riscos conhecidos)
 	Reserva Gerênciais (para lidar com riscos não conhecidos)
+
 ### P6 - Criar o Plano de Comunicações
 	Tipos de Comunicação
 		Escrita Formal (ex: Relação ao Projeto)
@@ -66,6 +70,7 @@ Planejar é um processo mais detalhado do que se precisa entregar
 		Explicar pra quem está transmitindo a mensagem, se entendeu a mensagem recebida
 	Escada de Inferência
 		Como e Por que
+
 ### P7 - Planejar o Gerenciamentos das Aquisições
 	Acordo
 		Relacionamento Internos (ex: É algo informal, no fio do bigado, na confiança)
@@ -79,5 +84,3 @@ Planejar é um processo mais detalhado do que se precisa entregar
 		Contrato de Custos Reembolsáveis (Preço pago por Diária)
 		Contrato por Tempo e Material (Contrato que paga por Hora e/ou por Item)
 	Acordo de Confidencialidade
-
-Gerador de Teste em PHP
